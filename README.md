@@ -3,7 +3,7 @@
 </p>
 
 <p>
-<b>안드로이드 네이티브</b> 개발자입니다 :)  
+<b>Android Developer</b>
 </p>
 
 <br>
