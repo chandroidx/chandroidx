@@ -3,7 +3,7 @@
 </p>
 
 <p>
-<b>Android Developer</b>
+<b>Junior Android Developer</b>
 </p>
 
 <br>
