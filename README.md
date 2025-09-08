@@ -17,7 +17,3 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Compose&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
 </p>
-
-<p>
-  <script src="https://gist.github.com/chandroidx/e2808251c1f5a2bba6afd35cef86c057.js"></script>
-</p>
